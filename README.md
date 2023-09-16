@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to developer-portfolio 👋</h1>
-<a href="https://github.com/ShapnaRanganathan/shapna-developerportfolio"><img alt="GitHub license" src="https://github.com/ShapnaRanganathan/shapna-developerportfolio"></a><a href="https://github.com/ShapnaRanganathan/shapna-developerportfolio"><img alt="GitHub issues" src="https://github.com/ShapnaRanganathan/shapna-developerportfolio"></a><a href="https://github.com/ShapnaRanganathan/shapna-developerportfolio"><img alt="GitHub forks" src="https://github.com/ShapnaRanganathan/shapna-developerportfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://github.com/ShapnaRanganathan/shapna-developerportfolio"></a>
+
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
