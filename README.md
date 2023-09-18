@@ -111,7 +111,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 👤 **Hanzla Tauqeer**
 
-- Website: https://hanzla.netlify.app
+- Website: https://shapnaranganathan.netlify.app/
 - Github: [Shapna Ranganathan](https://github.com/ShapnaRanganathan)
 - LinkedIn: [Shapna Ranganathan](https://www.linkedin.com/in/shapna-ranganathan-226693264/)
 
